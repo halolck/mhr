@@ -1,197 +1,197 @@
 [skill1]
-1:Attack Boost:3:A
-2:Agitator:3:A
-3:Peak Performance:2:A
-4:Resentment:3:A
-5:Resuscitate:2:A
-6:Critical Eye:3:A
-7:Critical Boost:2:S
-8:Weakness Exploit:2:A
-9:Latent Power:3:A
-10:Maximum Might:2:A
-11:Critical Element:2:A
-13:Fire Attack:3:B
-14:Water Attack:3:B
-15:Ice Attack:3:B
-16:Thunder Attack:3:B
-17:Dragon Attack:3:B
-18:Poison Attack:3:B
-19:Paralysis Attack:3:A
-20:Sleep Attack:2:A
-21:Blast Attack:2:A
-22:Handicraft:2:S
-23:Razor Sharp:2:A
-24:Spare Shot:2:A
-25:Protective Polish:2:A
-26:Mind's Eye:2:S
-27:Aim Booster:2:A
-28:Bludgeoner:3:B
-29:Bow Charge Plus:1:C
-30:Focus:2:S
-31:Power Prolonger:2:A
-32:Marathon Runner:2:S
-33:Constitution:3:C
-34:Stamina Surge:2:A
-35:Guard:3:A
-36:Guard Up:2:A
-37:Offensive Guard:2:S
-38:Critical Draw:2:S
-39:Punishing Draw:3:B
-40:Quick Sheath:3:B
-41:Slugger:3:B
-42:Stamina Thief:3:C
-43:Affinity Sliding:1:C
-44:Horn Maestro:1:C
-45:Artilerry:2:S
-46:Load Shells:2:A
-47:Special Ammo Boost:2:A
-48:Normal/Rapid Up:2:A
-49:Pierce Up:2:S
-50:Spread Up:2:S
-51:Ammo Up:2:S
-52:Reload Speed:3:B
-53:Recoil Down:3:B
-54:Steadiness:2:B
-55:Rapid Fire Up:2:S
-56:Defense Boost:3:B
-57:Divine Blessing:3:B
-58:Recovery Up:3:C
-59:Recovery Speed:3:C
-60:Speed Eating:3:B
-61:Earplugs:3:B
-62:Windproof:3:B
-63:Tremor Resitance:3:B
-64:Bubbly Dance:3:B
-65:Evade Window:3:B
-66:Evade Extender:3:B
-67:Fire Resistance:3:C
-68:Water Resistance:3:C
-69:Ice Resistance:3:C
-70:Thunder Resistance:3:C
-71:Dragon Resistance:3:C
-72:Blight Resistance:3:B
-73:Poison Resistance:3:C
-74:Paralysis Resistance:3:C
-75:Sleep Resistance:3:C
-76:Stun Resistance:3:B
-77:Muck Resistance:2:C
-78:Blast Resistance:3:C
-79:Botanist:4:C
-80:Geologist:3:C
-81:Partbreaker:3:B
-82:Capture Master:C
-84:Good Luck:2:S
-85:Speed Sharpening:3:B
-86:Bombardier:3:C
-87:Mushroomancer:2:S
-88:Item Prolonger:3:C
-89:Wide-Range:3:B
-90:Free Meal:3:C
-91:Heroics:3:A
-92:Fortify:1:C
-93:Flinch Free:3:B
-94:Jump Master:1:S
-95:Carving Pro:1:C
-96:Hunger Resistance:3:C
-97:Leap of Faith:1:C
-98:Diversion:1:C
-99:Master Mounter:1:C
-100:Wirebug Whisperer:3:C
+1:攻撃:3:A
+2:挑戦者:A:
+3:フルチャージ:2:A
+4:逆恨み:3:A
+5:死中に活:2:A
+6:見切り:3:A
+7:超会心:2:A
+8:弱点特攻:2:A
+9:力の解放:3:A
+10:渾身:2:A
+11:会心撃:2:A
+13:火属性攻撃強化:3:B
+14:水属性攻撃強化:3:B
+15:氷属性攻撃強化:3:B
+16:雷属性攻撃強化:3:B
+17:龍属性攻撃強化:3:B
+18:毒属性強化:3:B
+19:麻痺属性強化:2:A
+20:睡眠属性強化:2:A
+21:爆破属性強化:2:A
+22:匠:2:S
+23:業物:2:A
+24:弾丸節約:2:A
+25:鋼刃研磨:2:A
+26:心眼:2:S
+27:弾導強化:2:A
+28:鈍器使い:2:A
+29:弓ダメ段階解放:1:C
+30:集中:2:S
+31:強化持続:2:A
+32:ランナー:2:S
+33:体術:3:C
+34:スタミナ急速回復:2:A
+35:ガード性能:3:A
+36:ガード強化:2:A
+37:攻めの守勢:2:S
+38:納刀術(技):2:S
+39:納刀術(力):3:B
+40:納刀術:3:B
+41:KO術:3:B
+42:スタミナ奪取:3:C
+43:滑走強化:1:C
+44:笛吹き名人:1:C
+45:砲術:2:S
+46:砲弾装填:2:A
+47:特殊射撃強化:2:A
+48:通常弾・連射矢強化:2:A
+49:貫通弾・貫通矢強化:2:S
+50:散弾・拡散矢強化:2:S
+51:装填拡張:2:S
+52:装填速度:3:B
+53:反動軽減:3:B
+54:ブレ抑制:2:B
+55:連射強化:2:S
+56:防御:3:B
+57:精霊の加護:3:B
+58:体力回復量アップ:3:C
+59:回復速度:3:C
+60:早食い:3:B
+61:耳栓:3:B
+62:風圧体制:3:B
+63:耐震:3:B
+64:泡沫の舞:3:B
+65:回避性能:3:B
+66:回避距離UP:3:B
+67:火耐性:3:C
+68:水耐性:3:C
+69:氷耐性:3:C
+70:雷耐性:3:C
+71:龍耐性:3:C
+72:属性やられ耐性:3:B
+73:毒耐性:3:C
+74:麻痺耐性:3:C
+75:睡眠耐性:3:C
+76:気絶耐性:3:B
+77:泥雪耐性:2:C
+78:爆破やられ耐性:3:C
+79:植生学:4:C
+80:地質学:3:C
+81:破壊王:3:B
+82:捕獲名人:2:C
+84:幸運:2:S
+85:砥石使用高速化:3:B
+86:ボマー:3:C
+87:キノコ大好き:2:S
+88:アイテム使用強化:3:C
+89:広域化:3:B
+90:満足感:3:C
+91:火事場力:3:A
+92:不屈:1:C
+93:ひるみ軽減:3:B
+94:ジャンプ鉄人:1:S
+95:剥ぎ取り鉄人:1:C
+96:腹減り耐性:3:C
+97:飛び込み:1:C
+98:陽動:1:C
+99:乗り名人:1:C
+100:翔蟲使い:3:C
 [skill2]
-0:None:1:D
-1:Attack Boost:7:A
-2:Agitator:5:A
-3:Peak Performance:3:A
-4:Resentment:5:A
-5:Resuscitate:3:A
-6:Critical Eye:7:A
-7:Critical Boost:3:S
-8:Weakness Exploit:3:A
-9:Latent Power:5:A
-10:Maximum Might:3:A
-11:Critical Element:3:A
-13:Fire Attack:5:B
-14:Water Attack:5:B
-15:Ice Attack:5:B
-16:Thunder Attack:5:B
-17:Dragon Attack:5:B
-18:Poison Attack:3:B
-19:Paralysis Attack:3:A
-20:Sleep Attack:3:A
-21:Blast Attack:3:A
-22:Handicraft:5:S
-23:Razor Sharp:3:A
-24:Spare Shot:3:A
-25:Protective Polish:3:A
-26:Mind's Eye:3:S
-27:Aim Booster:3:A
-28:Bludgeoner:3:B
-30:Focus:3:S
-31:Power Prolonger:3:A
-32:Marathon Runner:3:S
-33:Constitution:5:C
-34:Stamina Surge:3:A
-35:Guard:5:A
-36:Guard Up:3:A
-37:Offensive Guard:3:S
-38:Critical Draw:3:S
-39:Punishing Draw:3:B
-40:Quick Sheath:3:B
-41:Slugger:3:B
-42:Stamina Thief:3:C
-43:Affinity Sliding:1:C
-44:Horn Maestro:1:C
-45:Artilerry:3:S
-46:Load Shells:2:A
-47:Special Ammo Boost:2:A
-48:Normal/Rapid Up:3:A
-49:Pierce Up:3:S
-50:Spread Up:3:S
-51:Ammo Up:3:S
-52:Reload Speed:3:B
-53:Recoil Down:3:B
-54:Steadiness:2:B
-55:Rapid Fire Up:3:S
-56:Defense Boost:7:B
-57:Divine Blessing:3:B
-58:Recovery Up:3:C
-59:Recovery Speed:3:C
-60:Speed Eating:3:B
-61:Earplugs:5:B
-62:Windproof:3:B
-63:Tremor Resitance:3:B
-64:Bubbly Dance:3:B
-65:Evade Window:5:B
-66:Evade Extender:3:B
-67:Fire Resistance:3:C
-68:Water Resistance:3:C
-69:Ice Resistance:3:C
-70:Thunder Resistance:3:C
-71:Dragon Resistance:3:C
-72:Blight Resistance:3:B
-73:Poison Resistance:3:C
-74:Paralysis Resistance:3:C
-75:Sleep Resistance:3:C
-76:Stun Resistance:3:B
-77:Muck Resistance:3:C
-78:Blast Resistance:3:C
-79:Botanist:4:C
-80:Geologist:3:C
-81:Partbreaker:3:B
-84:Good Luck:3:S
-85:Speed Sharpening:3:B
-86:Bombardier:3:C
-87:Mushroomancer:3:S
-88:Item Prolonger:3:C
-89:Wide-Range:5:B
-90:Free Meal:3:C
-91:Heroics:5:A
-92:Fortify:1:C
-93:Flinch Free:3:B
-94:Jump Master:1:S
-95:Carving Pro:1:C
-96:Hunger Resistance:3:C
-97:Leap of Faith:1:C
-98:Diversion:1:C
-99:Master Mounter:1:C
-100:Wirebug Whisperer:3:C
+0:なし:1:C
+1:攻撃:7:A
+2:挑戦者:5:A
+3:フルチャージ:3:A
+4:逆恨み:5:A
+5:死中に活:3:A
+6:見切り:7:A
+7:超会心:3:S
+8:弱点特攻:3:A
+9:力の解放:5:A
+10:渾身:3:A
+11:会心撃:3:A
+13:火属性攻撃強化:5:B
+14:水属性攻撃強化:5:B
+15:氷属性攻撃強化:5:B
+16:雷属性攻撃強化:5:B
+17:龍属性攻撃強化:5:B
+18:毒属性強化:3:B
+19:麻痺属性強化:3:A
+20:睡眠属性強化:3:A
+21:爆破属性強化:3:A
+22:匠:5:S
+23:業物:3:A
+24:弾丸節約:3:A
+25:鋼刃研磨:3:A
+26:心眼:3:S
+27:弾導強化:3:A
+28:鈍器使い:3:B
+30:集中:3:S
+31:強化持続:3:A
+32:ランナー:3:S
+33:体術:5:C
+34:スタミナ急速回復:3:A
+35:ガード性能:5:A
+36:ガード強化:3:A
+37:攻めの守勢:3:S
+38:納刀術(技):3:S
+39:納刀術(力):3:B
+40:納刀術:3:B
+41:KO術:3:B
+42:スタミナ奪取:3:C
+43:滑走強化:1:C
+44:笛吹き名人:1:C
+45:砲術:3:S
+46:砲弾装填:2:A
+47:特殊射撃強化:2:A
+48:通常弾・連射矢強化:3:A
+49:貫通弾・貫通矢強化:3:A
+50:散弾・拡散矢強化:3:S
+51:装填拡張:3:S
+52:装填速度:3:B
+53:反動軽減:3:B
+54:ブレ抑制:2:B
+55:連射強化:3:S
+56:防御:7:B
+57:精霊の加護:3:B
+58:体力回復量アップ:3:C
+59:回復速度:3:C
+60:早食い:3:B
+61:耳栓:5:B
+62:風圧体制:3:B
+63:耐震:3:B
+64:泡沫の舞:3:B
+65:回避性能:5:B
+66:回避距離UP:3:B
+67:火耐性:3:C
+68:水耐性:3:C
+69:氷耐性:3:C
+70:雷耐性:3:C
+71:龍耐性:3:C
+72:属性やられ耐性:3:B
+73:毒耐性:3:C
+74:麻痺耐性:3:C
+75:睡眠耐性:3:C
+76:気絶耐性:3:B
+77:泥雪耐性:3:C
+78:爆破やられ耐性:3:C
+79:植生学:4:C
+80:地質学:3:C
+81:破壊王:3:B
+84:幸運:3:S
+85:砥石使用高速化:3:B
+86:ボマー:3:C
+87:キノコ大好き:3:S
+88:アイテム使用強化:3:C
+89:広域化:5:B
+90:満足感:3:C
+91:火事場力:5:A
+92:不屈:1:C
+93:ひるみ軽減:3:B
+94:ジャンプ鉄人:1:S
+95:剥ぎ取り鉄人:1:C
+96:腹減り耐性:3:C
+97:飛び込み:3:C
+98:陽動:1:C
+99:乗り名人:1:C
+100:翔蟲使い:3:C
