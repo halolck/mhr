@@ -79,7 +79,7 @@
 79:Botanist:4:C
 80:Geologist:3:C
 81:Partbreaker:3:B
-82:Capture Master:C
+82:Capture Master:2:C
 84:Good Luck:2:S
 85:Speed Sharpening:3:B
 86:Bombardier:3:C
@@ -96,8 +96,7 @@
 97:Leap of Faith:1:C
 98:Diversion:1:C
 99:Master Mounter:1:C
-100:Wirebug Whisperer:3:C
-104:翔蟲使い3:C
+104:Wirebug Whisperer:3:C
 105:Wall Runner:3:C
 106:Counterstrike:3:B
 107:Rapid Morph:3:B
@@ -199,6 +198,7 @@
 97:Leap of Faith:1:C
 98:Diversion:1:C
 99:Master Mounter:1:C
+104:Wirebug Whisperer:3:C
 105:Wall Runner:3:C
 106:Counterstrike:2:B
 107:Rapid Morph:2:B
