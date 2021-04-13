@@ -1,0 +1,204 @@
+[skill1]
+Attack Boost:1:3:A
+Agitator:2:3:A
+Peak Performance:3:2:A
+Resentment:4:3:A
+Resuscitate:5:2:A
+Critical Eye:6:3:A
+Critical Boost:7:2:S
+Weakness Exploit:8:2:A
+Latent Power:9:3:A
+Maximum Might:10:2:A
+Critical Element:11:2:A
+Fire Attack:13:3:B
+Water Attack:14:3:B
+Ice Attack:15:3:B
+Thunder Attack:16:3:B
+Dragon Attack:17:3:B
+Poison Attack:18:3:B
+Paralysis Attack:19:3:A
+Sleep Attack:20:2:A
+Blast Attack:21:2:A
+Handicraft:22:2:S
+Razor Sharp:23:2:A
+Spare Shot:24:2:A
+Protective Polish:25:2:A
+Mind's Eye:26:2:S
+Aim Booster:27:2:A
+Bludgeoner:28:3:B
+Focus:30:2:S
+Power Prolonger:31:2:A
+Marathon Runner:32:2:S
+Constitution:33:3:C
+Stamina Surge:34:2:A
+Guard:35:3:A
+Guard Up:36:2:A
+Offensive Guard:37:2:S
+Critical Draw:38:2:S
+Punishing Draw:39:3:B
+Quick Sheath:40:3:B
+Slugger:41:3:B
+Stamina Thief:42:3:C
+Affinity Sliding:43:1:C
+Horn Maestro:44:1:C
+Artilerry:45:2:S
+Load Shells:46:2:A
+Special Ammo Boost:47:2:A
+Normal/Rapid Up:48:2:A
+Pierce Up:49:2:S
+Spread Up:50:2:S
+Ammo Up:51:2:S
+Reload Speed:52:3:B
+Recoil Down:53:3:B
+Steadiness:54:2:B
+Rapid Fire Up:55:2:S
+Defense Boost:56:3:B
+Divine Blessing:57:3:B
+Recovery Up:58:3:C
+Recovery Speed:59:3:C
+Speed Eating:60:3:B
+Earplugs:61:3:B
+Windproof:62:3:B
+Tremor Resitance:63:3:B
+Bubbly Dance:64:3:B
+Evade Window:65:3:B
+Evade Extender:66:3:B
+Fire Resistance:67:3:C
+Water Resistance:68:3:C
+Ice Resistance:69:3:C
+Thunder Resistance:70:3:C
+Dragon Resistance:71:3:C
+Blight Resistance:72:3:B
+Poison Resistance:73:3:C
+Paralysis Resistance:74:3:C
+Sleep Resistance:75:3:C
+Stun Resistance:76:3:B
+Muck Resistance:77:2:C
+Blast Resistance:78:3:C
+Botanist:79:4:C
+Geologist:80:3:C
+Partbreaker:81:3:B
+Capture Master:82:2:C
+Good Luck:84:2:S
+Speed Sharpening:85:3:B
+Bombardier:86:3:C
+Mushroomancer:87:2:S
+Item Prolonger:88:3:C
+Wide-Range:89:3:B
+Free Meal:90:3:C
+Heroics:91:3:A
+Fortify:92:1:C
+Flinch Free:93:3:B
+Jump Master:94:1:S
+Carving Pro:95:1:C
+Hunger Resistance:96:3:C
+Leap of Faith:97:1:C
+Diversion:98:1:C
+Master Mounter:99:1:C
+Wirebug Whisperer:104:3:C
+Wall Runner:105:3:C
+Counterstrike:106:3:B
+Rapid Morph:107:3:B
+Hellfire Cloak:108:2:A
+[skill2]
+None:0:0:C
+Attack Boost:1:7:A
+Agitator:2:5:A
+Peak Performance:3:3:A
+Resentment:4:5:A
+Resuscitate:5:3:A
+Critical Eye:6:7:A
+Critical Boost:7:3:S
+Weakness Exploit:8:3:A
+Latent Power:9:5:A
+Maximum Might:10:3:A
+Critical Element:11:3:A
+Fire Attack:13:5:B
+Water Attack:14:5:B
+Ice Attack:15:5:B
+Thunder Attack:16:5:B
+Dragon Attack:17:5:B
+Poison Attack:18:3:B
+Paralysis Attack:19:3:A
+Sleep Attack:20:3:A
+Blast Attack:21:3:A
+Handicraft:22:5:S
+Razor Sharp:23:3:A
+Spare Shot:24:3:A
+Protective Polish:25:3:A
+Mind's Eye:26:3:S
+Aim Booster:27:3:A
+Bludgeoner:28:3:B
+Focus:30:3:S
+Power Prolonger:31:3:A
+Marathon Runner:32:3:S
+Constitution:33:5:C
+Stamina Surge:34:3:A
+Guard:35:5:A
+Guard Up:36:3:A
+Offensive Guard:37:3:S
+Critical Draw:38:3:S
+Punishing Draw:39:3:B
+Quick Sheath:40:3:B
+Slugger:41:3:B
+Stamina Thief:42:3:C
+Affinity Sliding:43:1:C
+Horn Maestro:44:1:C
+Artilerry:45:3:S
+Load Shells:46:2:A
+Special Ammo Boost:47:2:A
+Normal/Rapid Up:48:3:A
+Pierce Up:49:3:S
+Spread Up:50:3:S
+Ammo Up:51:3:S
+Reload Speed:52:3:B
+Recoil Down:53:3:B
+Steadiness:54:2:B
+Rapid Fire Up:55:3:S
+Defense Boost:56:7:B
+Divine Blessing:57:3:B
+Recovery Up:58:3:C
+Recovery Speed:59:3:C
+Speed Eating:60:3:B
+Earplugs:61:5:B
+Windproof:62:3:B
+Tremor Resitance:63:3:B
+Bubbly Dance:64:3:B
+Evade Window:65:2:B
+Evade Extender:66:3:B
+Fire Resistance:67:3:C
+Water Resistance:68:3:C
+Ice Resistance:69:3:C
+Thunder Resistance:70:3:C
+Dragon Resistance:71:3:C
+Blight Resistance:72:3:B
+Poison Resistance:73:3:C
+Paralysis Resistance:74:3:C
+Sleep Resistance:75:3:C
+Stun Resistance:76:3:B
+Muck Resistance:77:3:C
+Blast Resistance:78:3:C
+Botanist:79:4:C
+Geologist:80:3:C
+Partbreaker:81:3:B
+Good Luck:84:1:S
+Speed Sharpening:85:3:B
+Bombardier:86:3:C
+Mushroomancer:87:3:S
+Item Prolonger:88:3:C
+Wide-Range:89:5:B
+Free Meal:90:3:C
+Heroics:91:5:A
+Fortify:92:1:C
+Flinch Free:93:3:B
+Jump Master:94:1:S
+Carving Pro:95:1:C
+Hunger Resistance:96:1:C
+Leap of Faith:97:1:C
+Diversion:98:1:C
+Master Mounter:99:1:C
+Wirebug Whisperer:104:3:C
+Wall Runner:105:3:C
+Counterstrike:106:2:B
+Rapid Morph:107:2:B
+Hellfire Cloak:108:2:A
