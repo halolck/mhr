@@ -1,294 +1,717 @@
-Magnamalo Shell+:2
-Magnamalo Blade+:3
-Magnamalo Horn+:4
-Magnamalo Scute+:5
-Purple Magna Orb:6
-Magna Soulprism:7
-Almudron Scale+:8
-Almudron Shell+:9
-Almudron Claw+:10
-Almudron Fin+:11
-Almudron Whisker+:12
-Golden Almudron Orb:13
-Golden Sludge:14
-Goss Harag Fur+:15
-Goss Harag Hide+:16
-Goss Harag Brace+:17
-Goss Harag Horn+:18
-Goss Harag Claw+:19
-Block of Ice+:20
-Rakna-Kadaki Carapace:21
-Rakna-Kadaki Silk:22
-Rakna-Kadaki Glowgut:23
-Rakna-Kadaki Sharpclaw:24
-Rakna-Kadaki Spike:25
-Ibushi Carapace:26
-Ibushi Hide+:27
-Ibushi Horn+:28
-Ibushi Claw+:29
-Ibushi Windsac:30
-Ibushi Bluespike:31
-Wind Serpent Orb:32
-Narwa Carapace:33
-Narwa Hide+:34
-Narwa Horn+:35
-Narwa Claw+:36
-Narwa Sparksac:37
-Narwa Tentacle:38
-Thunder Serpent Orb:39
-Apex Beastclaw:40
-Apex Bubblefoam:41
-Apex Venom Spike:42
-Bombadgy Igniter:43
-Rachnoid Silk:44
-Rachnoid Silk+:45
-Tobi-Kadachi Scale:46
-Tobi-Kadachi Scale+:47
-Tobi-Kadachi Pelt:48
-Tobi-Kadachi Pelt+:49
-Tobi-Kadachi Membrane:50
-Tobi-Kadachi Claw:51
-Tobi-Kadachi Claw+:52
-Tobi-Kadachi Electrode:53
-Tobi-Kadachi Electrode+:54
-Jyuratodus Scale+:55
-Jyuratodus Carapace:56
-Jyuratodus Fang+:57
-Jyuratodus Fin+:58
-Suspicious Fang:59
-Suspicious Fang+:60
-Kulu-Ya-Ku Scale:61
-Kulu-Ya-Ku Scale+:62
-Kulu-Ya-Ku Hide:63
-Kulu-Ya-Ku Hide+:64
-Kulu-Ya-Ku Beak:65
-Kulu-Ya-Ku Beak+:66
-Kulu-Ya-Ku Plume:67
-Kulu-Ya-Ku Plume+:68
-Pukei-Pukei Scale:69
-Pukei-Pukei Scale+:70
-Pukei-Pukei Shell:71
-Pukei-Pukei Carapace:72
-Pukei-Pukei Quill:73
-Pukei-Pukei Wing:74
-Pukei-Pukei Sac:75
-Pukei-Pukei Sac+:76
-Pukei-Pukei Tail:77
-Anjanath Scale+:78
-Anjanath Pelt+:79
-Anjanath Fang+:80
-Anjanath Nosebone+:81
-Anjanath Gem:82
-Massive Bone:83
-Great Stoutbone:84
-Rich Mud:85
-Rathian Scrap:86
-Rathian Scrap+:87
-Rathalos Scrap:88
-Rathalos Scrap+:89
-Zinogre Scrap:90
-Zinogre Scrap+:91
-Arzuros Scrap:92
-Arzuros Scrap+:93
-Baggi Scrap:94
-Baggi Scrap+:95
-Lagombi Scrap:96
-Lagombi Scrap+:97
-Barroth Scrap:98
-Barroth Scrap+:99
-Wroggi Scrap:100
-Wroggi Scrap+:101
-Royal Ludroth Scrap:102
-Royal Ludroth Scrap+:103
-Barioth Scrap:104
-Barioth Scrap+:105
-Volvidon Scrap:106
-Volvidon Scrap+:107
-Bassarios Scrap:108
-Bassarios Scrap+:109
-Nargacuga Scrap:110
-Nargacuga Scrap+:111
-Nitroshroom:112
-Parashroom:113
-Toadstool:114
-Exciteshroom:115
-Mandragora:116
-Icium:117
-Gracium:118
-Lightcrystal:119
-Novacrystal:120
-Firestone:121
-Firecell Stone:122
-Carbalite Ore:123
-Fucium Ore:124
-Bitterbug:125
-Flashbug:126
-Thunderbug:127
-Fire Herb:128
-Ivy:129
-Sleep Herb:130
-Snow Herb:131
-Flowfern:132
-Sunscorned Grass:133
-Gloamgrass Bud:134
-Felvine:135
-Smokenut:136
-Dragonfell Berry:137
-Huskberry:138
-Needleberry:139
-Bomberry:140
-Blastnut:141
-Dragonstrike Nut:142
-Slashberry:143
-Sturdy Bone:144
-Twisted Remains:145
-Dragonhusk Shard:146
-Eroded Skeleton:147
-Quality Bone:148
-Dragonbone Relic:149
-Twisted Rockbone:150
-Eroded Husk:151
-Spider Web:152
-Gunpowder:153
-Barrel Lid:154
-Great Whetfish:155
-Combustuna:156
-Big Combustuna:157
-Flamefin:158
-Great Flamefin:159
-Scatterfish:160
-Goldenfry:161
-Speartuna:162
-Humble Scrap:163
-Humble Scrap+:164
-Ore Scrap:165
-Ore Scrap+:166
-Insect Scrap:167
-Insect Scrap+:168
-Bone Scrap:169
-Bone Scrap+:170
-Fur Scrap:171
-Fur Scrap+:172
-Slagtoth Scrap:173
-Slagtoth Scrap+:174
-Jaggi Scrap:175
-Jaggi Scrap+:176
-Bnahabra Scrap:177
-Bnahabra Scrap+:178
-Rhenoplos Scrap:179
-Rhenoplos Scrap+:180
-Izuchi Scrap:181
-Izuchi Scrap+:182
-Tetranadon Scrap:183
-Tetranadon Scrap+:184
-Khezu Scrap:185
-Khezu Scrap+:186
-Kulu-Ya-Ku Scrap:187
-Kulu-Ya-Ku Scrap+:188
-Aknosom Scrap:189
-Aknosom Scrap+:190
-Somnacanth Scrap:191
-Somnacanth Scrap+:192
-Pukei Scrap:193
-Pukei Scrap+:194
-Kadachi Scrap:195
-Kadachi Scrap+:196
-Bishaten Scrap:197
-Bishaten Scrap+:198
-Anjanath Scrap:199
-Anjanath Scrap+:200
-Mizutsune Scrap:201
-Mizutsune Scrap+:202
-Magnamalo Scrap:203
-Magnamalo Scrap+:204
-Goss Harag Scrap:205
-Goss Scrap+:206
-Diablos Scrap:207
-Diablos Scrap+:208
-Tigrex Scrap:209
-Tigrex Scrap+:210
-Almudron Scrap:211
-Almudron Scrap+:212
-Jyura Scrap+:213
-Ibushi Scrap+:214
-Rajang Scrap+:215
-Rakna-Kadaki Scrap+:216
-Narwa Scrap+:217
-Popfish:218
-Mountshrooms:219
-Shadeshrooms:220
-Stargazer Flower:221
-Stargazer Bloom:222
-Sinister Cloth:223
-Sinister Darkcloth:224
-Bumblepumpkin:225
-Omegapumpkin:226
-Cutejelly:227
-Gothjelly:228
-Dreamshell:229
-Toxic Kumori:230
-Butterfly Beetle:231
-Blossom Cricket:232
-Dosbiscus:233
-Armored Bream:234
-Springnight Carp:235
-Beast Gem:236
-Acute Fang:237
-Catalyst:238
-Net:239
-Gunpowder Lv2:240
-Gunpowder Lv3:241
-Steel Egg:242
-Silver Egg:243
-Golden Egg:244
-Commendation:245
-High Commendation:246
-Blazenut:247
-Flamenut:248
-Buddy Ticket:249
-Kamura Ticket:250
-Guild Ticket:251
-Defender Ticket 1:252
-Defender Ticket 2:253
-Defender Ticket 3:254
-Defender Ticket 4:255
-Defender Ticket 5:256
-Defender Ticket 6:257
-Defender Ticket 7:258
-King's Crest:259
-Rath Wingtalon+:260
-Basarios Tail:261
-Basarios Pleura:262
-Basarios Pleura+:263
-Jaggi Hide+:264
-Hard Armor Sphere:265
-Aquaglow Jewel:266
-Bloodrun Jewel:267
-Lagniapple:268
-Dung:269
-Dung Bomb:270
-Kulu Coin:271
-Barroth Coin:272
-Nargacuga Coin:273
-Barioth Coin:274
-Rajang Coin:275
-Pinnacle Coin:276
-Hunter King Coin:277
-Ace Hunter Coin:278
-Great Wirebug:279
-Friend Voucher:280
-Bhernastone:281
-Dundormarin:282
-Loc Lac Ore:283
-Val Haber Quartz:284
-Minegardenite:285
-Normal Ammo 2:286
-Normal Ammo 3:287
-Pierce Ammo 1:288
-Pierce Ammo 2:289
-Pierce Ammo 3:290
-Spread Ammo 1:291
-Spread Ammo 2:292
-Spread Ammo 3:293
-Shrapnel Ammo 1:294
-Shrapnel Ammo 2:295
+Barrel Bomb:002
+Large Barrel Bomb:003
+Shock Trap:004
+Max Potion:005
+Potion:006
+Mega Potion:007
+Well-done Steak:008
+Lifepowder:009
+Antidote:00D
+Cleanser:00E
+Deodorant:00F
+Empty Phial:017
+Small Barrel:018
+Large Barrel Bomb:019
+Trap Tool:01A
+Powercharm:01B
+Armorcharm:01C
+Lottery Ticket:05B
+Rathian Scale:05C
+Rathian Shell:05D
+Rathian Webbing:05E
+Rathian Spike:05F
+Rathian Plate:060
+Rathalos Scale:061
+Rathalos Shell:062
+Rathalos Webbing:063
+Rathalos Plate:064
+Rathalos Marrow:065
+Flame Sac:066
+Zinogre Shell:067
+Zinogre Shockfur:068
+Zinogre Claw:069
+Zinogre Shocker:06A
+Zinogre Plate:06B
+Mizutsune Scale:06C
+Mizutsune Purplefur:06D
+Mizutsune Claw:06E
+Bubblefoam:06F
+Mizutsune Plate:070
+Aknosom Scale:071
+Aknosom Feather:072
+Aknosom Crest:073
+Tetranadon Hide:074
+Tetra Carapace:075
+Tetranadon Beak:076
+Almudron Scale:077
+Almudron Shell:078
+Almudron Claw:079
+Raw Meat:07A
+Pitfall Trap:07B
+Dango Ticket:07C
+Honey:07D
+Blue Mushroom:07E
+Godbug:07F
+Herb:080
+Nulberry:081
+Latchberry:082
+Iron Ore:083
+Earth Crystal:084
+Machalite Ore:085
+Dragonite Ore:086
+Energy Drink:089
+Anjanath Pelt:08D
+Anjanath Scale:08E
+Anjanath Fang:08F
+Anjanath Nosebone:090
+Anjanath Tail:091
+Anjanath Plate:092
+Armor Sphere:095
+Armor Sphere+:096
+Advanced Armor Sphere:097
+Flash Bomb:0A3
+Old Message:0A4
+Aknosom Beak:0A5
+Tetranadon Disc:0A6
+Somnacanth Scale:0A7
+Somnacanth Shell:0A8
+Somnacanth Talon:0A9
+Somnacanth Fin:0AA
+Somnacanth Dust:0AB
+Magnamalo Scale:0AC
+Magnamalo Shell:0AD
+Magnamalo Blade:0AE
+Magnamalo Tail:0AF
+Magnamalo Horn:0B0
+Magnamalo Scute:0B1
+Magna Ghostprism:0B2
+Magnamalo Plate:0B3
+Golden Muck:0B4
+Almudron Fin:0B5
+Almudron Tail:0B6
+Almudron Whisker:0B7
+Almudron Plate:0B8
+Goss Harag Fur:0B9
+Goss Harag Hide:0BA
+Goss Harag Brace:0BB
+Goss Harag Horn:0BC
+Goss Harag Claw:0BD
+Block of Ice:0BE
+GossHarag Bile:0BF
+Arzuros Pelt:0D9
+Arzuros Pelt+:0DA
+Arzuros Shell:0DB
+Arzuros Carapace:0DC
+Arzuros Brace:0DD
+Arzuros Brace+:0DE
+Great Baggi Hide:0DF
+Great Baggi Hide+:0E0
+Great Baggi Claw:0E1
+Great Baggi Claw+:0E2
+Lagombi Pelt:0E3
+Lagombi Pelt+:0E4
+Lagombi Ear:0E5
+Lagombi Ear+:0E6
+Lagombi Plastron:0E7
+Lagombi Plastron+:0E8
+Lagombi Iceclaw:0E9
+Lagombi Frozenclaw:0EA
+Flabby Hide:0EB
+Pearl Hide:0EC
+Pale Extract:0ED
+Pale Bone:0EE
+Pale Steak:0EF
+Barroth Shell:0F0
+Barroth Carapace:0F1
+Barroth Ridge:0F2
+Barroth Ridge+:0F3
+Barroth Claw:0F4
+Barroth Claw+:0F5
+Barroth Scalp:0F6
+Barroth Tail:0F7
+Fertile Mud:0F8
+Great Wroggi Hide:0F9
+Great Wroggi Hide+:0FA
+Great Wroggi Brace:0FB
+Great Wroggi Brace+:0FC
+King's Beak:0FD
+Spongy Hide:0FE
+Spongy Hide+:0FF
+Royal Ludroth Scale:100
+Royal Ludroth Scale+:101
+Royal Ludroth Claw:102
+Royal Ludroth Claw+:103
+Royal Ludroth Crest:104
+Royal Ludroth Crest+:105
+Royal Ludroth Tail:106
+Barioth Shell:107
+Barioth Carapace:108
+Barioth Pelt:109
+Barioth Pelt+:10A
+Barioth Claw:10B
+Barioth Claw+:10C
+Barioth Spike:10D
+Barioth Tail:10E
+Amber Fang:10F
+Amber Fang+:110
+Volvidon Shell:111
+Volvi Carapace:112
+Volvidon Claw:113
+Volvidon Claw+:114
+Volvi Rickrack:115
+Basarios Shell:116
+Basarios Carapace:117
+Basarios Wing:118
+Basarios Tears:119
+Nargacuga Scale:11A
+Nargacuga Scale+:11B
+Nargacuga Blackfur:11C
+Nargacuga Pelt+:11D
+Nargacuga Tail:11E
+Narga Tailspike:11F
+Nargacuga Cutwing:120
+Narga Razor:121
+Nargacuga Fang:122
+Nargacuga Fang+:123
+Nargacuga Marrow:124
+Narga Medulla:125
+Rathian Scale+:126
+Rathian Carapace:127
+Rathian Spike+:128
+Rathian Ruby:129
+Zinogre Carapace:12A
+Zinogre Electrofur:12B
+Zinogre Horn+:12C
+Zinogre Claw+:12D
+Zinogre Shocker+:12E
+Zinogre Jasper:12F
+Mizutsune Scale+:130
+Mizutsune Purplefur+:131
+Mizutsune Claw+:132
+Mizutsune Fin+:133
+Bubblefoam+:134
+Mizutsune Water Orb:135
+Rathalos Scale+:136
+Rathalos Carapace:137
+Rathalos Wing:138
+Rathalos Ruby:139
+Twisted Horn:13A
+Majestic Horn:13B
+Diablos Shell:13C
+Diablos Sarapace:13D
+Diablos Ridge:13E
+Diablos Ridge+:13F
+Diablos Tailcase:140
+Diablos Fang:141
+Diablos Marrow:142
+Diablos Medulla:143
+Tigrex Scale:144
+Tigrex Scale+:145
+Tigrex Shell:146
+Tigrex Carapace:147
+Tigrex Tail:148
+Tigrex Claw:149
+Tigrex Claw+:14A
+Tigrex Fang:14B
+Tigrex Fang+:14C
+Tigrex Scalp:14D
+Tigrex Maw:14E
+Rajang Horn+:14F
+Rajang Fang+:150
+Rajang Blackfur:151
+Rajang Clow+:152
+Rajang Tail:153
+Gold Rajang Pelt:154
+Kelbi Horn:16B
+Anteka Antler:16D
+Rhenoplos Shell:16E
+Rhenoplos Carapace:16F
+Rhenoplos Scalp:170
+Slagtoth Hide:171
+Slagtoth Hide+:172
+Gargwa Feather:173
+Bnahabra Shell:174
+Bnahabra Carapace:175
+Bnahabra Wing:176
+Bnahabra Stinger:177
+Altaroth Jaw:178
+Altaroth  Stomach:179
+Quality Stomach:17A
+Bullfango Pelt:17B
+Bullfango Pelt+:17C
+Bullfango Head:17D
+Gajau Skin:17E
+Gajau Whisker:17F
+Gajau Scale:180
+Gajau Whisker+:181
+Jaggi Scale:182
+Jaggi Scale+:183
+Jaggi Hide:184
+Baggi Hide:185
+Baggi Scale:186
+Baggi Scale+:187
+Wroggi Scale:188
+Wroggi Scale+:189
+Wroggi Hide:18A
+Kestodon Shell:18C
+Kestodon Scalp:18D
+Kestodon Carapace:18E
+Hydro Hide:18F
+Hydro Hide+:190
+Immature Sponge:191
+Uroktor Scale:192
+Uroktor Scale+:193
+Big Fin:194
+Quality Fin:195
+Meaty Hide:196
+Meaty Hide+:197
+Sharqskin Scale:198
+Remobra Hide:199
+Remobra Hide+:19A
+Striped Hide:19B
+Remobra Head:19C
+Jagras Scale:19D
+Jagras Hide:19E
+Jagras Scale+:19F
+Jagras Hide+:1A0
+Monster Bone S:1A1
+Monster Bone M:1A2
+Monster Bone L:1A3
+Monster Bone+:1A4
+Monster Keenbone:1A5
+Monster Hardbone:1A6
+Elder Dragon Bone:1A7
+Jumbo Bone:1A8
+Stoutbone:1A9
+Bird Wyvern Gem:1AA
+Wyvern Gem:1AB
+Sharp Claw:1AF
+Sharp Fang:1B0
+Piercing Claw:1B1
+Warm Pelt:1B2
+High-quality Pelt:1B3
+Elder Dragon Blood:1B4
+Screamer Sac:1B5
+Poison Sac:1B6
+Toxin Sac:1B7
+Paralysis Sac:1B8
+Omniplegia Sac:1B9
+Sleep Sac:1BA
+Coma Sac:1BB
+Inferno Sac:1BD
+Electro Sac:1BE
+Thunder Sac:1BF
+Frost Sac:1C0
+Freezer Sac:1C1
+Aqua Sac:1C2
+Torrent Sac:1C3
+Monster Fluid:1C4
+Monster Broth:1C5
+Dash Extract:1C6
+Pawprint Stamp:1C7
+Felyne Fur Ruby:1C8
+Rath Wingtalon:1C9
+Rathalos Medulla:1CA
+Zinogre Horn:1CB
+Zinogre Tail:1CC
+Fulgurbug:1CD
+Mizutsune Fin:1CE
+Mizutsune Tail:1CF
+Rathalos Tail:1D0
+Raw Steak:1D1
+Burnt Meat:1D2
+Ancient Potion:1D3
+Dust of Life:1D4
+Gourmet Fish:1D5
+Sushifish:1D6
+Immunizer:1D7
+Ration:1D8
+Dash Juice:1D9
+Antidote Herb:1DA
+Herbal Medicine:1DB
+Herbal Powder:1DC
+Demondrug:1DD
+Mega Demondrug:1DE
+Might  Seed:1DF
+Demon Powder:1E0
+Powertalon:1E1
+Armorskin:1E2
+Mega Armorskin:1E3
+Adamant Seed:1E4
+Hardshell Powder:1E5
+Armortalon:1E6
+Mega Barrel Bomb:1E7
+Poisoned Meat:1E8
+Tinged Meat:1E9
+Drugged Meat:1EA
+Farcaster:1EB
+Poison Smoke Bomb:1EC
+Sonic Bomb:1ED
+Tranq Bomb:1EE
+Whetfish:1F3
+Gastronome Tuna:204
+Great Gastronome Tuna:205
+Great Izuchi Pelt:206
+Great Izuchi Hide:207
+Great Izuchi Tail:208
+Great Izuchi Pelt+:209
+Great Izuchi Hide+:20A
+Great Izuchi Tail+:20B
+Izuchi Pelt:20C
+Izuchi Tail:20D
+Izuchi Pelt+:20E
+Aknosom Scale+:20F
+Aknosom Feather+:210
+Aknosom Crest+:211
+Tetranadon Hide+:213
+Tetra Carapace+:214
+Tetranadon Disc+:215
+Tetranadon Beak+:216
+Bishaten Fur:217
+Bishaten Horn:218
+Bishaten Feather:219
+Bisha Tailcase:21A
+Bishaten Talon:21B
+Bishaten Fur+:21F
+Bishaten Horn+:220
+Bishaten Feather+:221
+Bisha Tailcase+:222
+Bishaten Talon+:223
+Somnacanth Scale+:224
+Somnacanth Shell+:225
+Somnacanth Talon+:226
+Somnacanth Fin+:227
+Somnacanth Sedative:228
+Magnamalo Scale+:229
+Magnamalo Shell+:22A
+Magnamalo Blade+:22B
+Magnamalo Horn+:22C
+Magnamalo Scute+:22D
+Purple Magna Orb:22E
+Magna Soulprism:22F
+Almudron Scale+:230
+Almudron Shell+:231
+Almudron Claw+:232
+Almudron Fin+:233
+Almudron Whisker+:234
+Golden Almudron Orb:235
+Golden Sludge:236
+Goss Harag Fur+:237
+Goss Harag Hide+:238
+Goss Harag Brace+:239
+Goss Harag Horn+:23A
+Goss Harag Claw+:23B
+Block of Ice+:23C
+Rakna-Kadaki Carapace:23D
+Rakna-Kadaki Silk:23E
+Rakna-Kadaki Glowgut:23F
+Rakna-Kadaki Sharpclaw:240
+Rakna-Kadaki Spike:241
+Ibushi Carapace:242
+Ibushi Hide+:243
+Ibushi Horn+:244
+Ibushi Claw+:245
+Ibushi Windsac:246
+Ibushi Bluespike:247
+Wind Serpent Orb:248
+Narwa Carapace:249
+Narwa Hide+:24A
+Narwa Horn+:24B
+Narwa Claw+:24C
+Narwa Sparksac:24D
+Narwa Tentacle:24E
+Thunder Serpent Orb:24F
+Apex Beastclaw:25B
+Apex Bubblefoam:25C
+Apex Venom Spike:260
+Bombadgy Igniter:261
+Rachnoid Silk:262
+Rachnoid Silk+:263
+Tobi-Kadachi Scale:264
+Tobi-Kadachi Scale+:265
+Tobi-Kadachi Pelt:266
+Tobi-Kadachi Pelt+:267
+Tobi-Kadachi Membrane:268
+Tobi-Kadachi Claw:269
+Tobi-Kadachi Claw+:26A
+Tobi-Kadachi Electrode:26B
+Tobi-Kadachi Electrode+:26C
+Jyuratodus Scale+:26D
+Jyuratodus Carapace:26E
+Jyuratodus Fang+:26F
+Jyuratodus Fin+:270
+Suspicious Fang:272
+Suspicious Fang+:273
+Kulu-Ya-Ku Scale:274
+Kulu-Ya-Ku Scale+:275
+Kulu-Ya-Ku Hide:276
+Kulu-Ya-Ku Hide+:277
+Kulu-Ya-Ku Beak:278
+Kulu-Ya-Ku Beak+:279
+Kulu-Ya-Ku Plume:27A
+Kulu-Ya-Ku Plume+:27B
+Pukei-Pukei Scale:27C
+Pukei-Pukei Scale+:27D
+Pukei-Pukei Shell:27E
+Pukei-Pukei Carapace:27F
+Pukei-Pukei Quill:280
+Pukei-Pukei Wing:281
+Pukei-Pukei Sac:282
+Pukei-Pukei Sac+:283
+Pukei-Pukei Tail:284
+Anjanath Scale+:285
+Anjanath Pelt+:286
+Anjanath Fang+:287
+Anjanath Nosebone+:288
+Anjanath Gem:289
+Massive Bone:291
+Great Stoutbone:292
+Rich Mud:293
+Rathian Scrap:294
+Rathian Scrap+:295
+Rathalos Scrap:296
+Rathalos Scrap+:297
+Zinogre Scrap:298
+Zinogre Scrap+:299
+Arzuros Scrap:29A
+Arzuros Scrap+:29B
+Baggi Scrap:29C
+Baggi Scrap+:29D
+Lagombi Scrap:29E
+Lagombi Scrap+:29F
+Barroth Scrap:2A0
+Barroth Scrap+:2A1
+Wroggi Scrap:2A2
+Wroggi Scrap+:2A3
+Royal Ludroth Scrap:2A4
+Royal Ludroth Scrap+:2A5
+Barioth Scrap:2A6
+Barioth Scrap+:2A7
+Volvidon Scrap:2A8
+Volvidon Scrap+:2A9
+Bassarios Scrap:2AA
+Bassarios Scrap+:2AB
+Nargacuga Scrap:2AC
+Nargacuga Scrap+:2AD
+Nitroshroom:2AE
+Parashroom:2AF
+Toadstool:2B0
+Exciteshroom:2B1
+Mandragora:2B2
+Icium:2B3
+Gracium:2B4
+Lightcrystal:2B5
+Novacrystal:2B6
+Firestone:2B7
+Firecell Stone:2B8
+Carbalite Ore:2B9
+Fucium Ore:2BA
+Bitterbug:2BB
+Flashbug:2BC
+Thunderbug:2BD
+Fire Herb:2BE
+Ivy:2BF
+Sleep Herb:2C0
+Snow Herb:2C1
+Flowfern:2C2
+Sunscorned Grass:2C3
+Gloamgrass Bud:2C4
+Felvine:2C5
+Smokenut:2C6
+Dragonfell Berry:2C7
+Huskberry:2C8
+Needleberry:2C9
+Bomberry:2CA
+Blastnut:2CB
+Dragonstrike Nut:2CC
+Slashberry:2CD
+Sturdy Bone:2CE
+Twisted Remains:2CF
+Dragonhusk Shard:2D0
+Eroded Skeleton:2D1
+Quality Bone:2D2
+Dragonbone Relic:2D3
+Twisted Rockbone:2D4
+Eroded Husk:2D5
+Spider Web:2D6
+Gunpowder:2D7
+Barrel Lid:2D8
+Great Whetfish:30E
+Combustuna:30F
+Big Combustuna:310
+Flamefin:311
+Great Flamefin:312
+Scatterfish:313
+Goldenfry:314
+Speartuna:315
+Humble Scrap:327
+Humble Scrap+:328
+Ore Scrap:32D
+Ore Scrap+:32E
+Insect Scrap:32F
+Insect Scrap+:330
+Bone Scrap:331
+Bone Scrap+:332
+Fur Scrap:333
+Fur Scrap+:334
+Slagtoth Scrap:335
+Slagtoth Scrap+:336
+Jaggi Scrap:337
+Jaggi Scrap+:338
+Bnahabra Scrap:339
+Bnahabra Scrap+:33A
+Rhenoplos Scrap:33B
+Rhenoplos Scrap+:33C
+Izuchi Scrap:33D
+Izuchi Scrap+:33E
+Tetranadon Scrap:33F
+Tetranadon Scrap+:340
+Khezu Scrap:341
+Khezu Scrap+:342
+Kulu-Ya-Ku Scrap:343
+Kulu-Ya-Ku Scrap+:344
+Aknosom Scrap:345
+Aknosom Scrap+:346
+Somnacanth Scrap:347
+Somnacanth Scrap+:348
+Pukei Scrap:349
+Pukei Scrap+:34A
+Kadachi Scrap:34B
+Kadachi Scrap+:34C
+Bishaten Scrap:34D
+Bishaten Scrap+:34E
+Anjanath Scrap:34F
+Anjanath Scrap+:350
+Mizutsune Scrap:351
+Mizutsune Scrap+:352
+Magnamalo Scrap:353
+Magnamalo Scrap+:354
+Goss Harag Scrap:355
+Goss Scrap+:356
+Diablos Scrap:357
+Diablos Scrap+:358
+Tigrex Scrap:359
+Tigrex Scrap+:35A
+Almudron Scrap:35B
+Almudron Scrap+:35C
+Jyura Scrap+:35D
+Ibushi Scrap+:35E
+Rajang Scrap+:35F
+Rakna-Kadaki Scrap+:360
+Narwa Scrap+:361
+Popfish:367
+Mountshrooms:377
+Shadeshrooms:378
+Stargazer Flower:379
+Stargazer Bloom:37A
+Sinister Cloth:37B
+Sinister Darkcloth:37C
+Bumblepumpkin:37D
+Omegapumpkin:37E
+Cutejelly:37F
+Gothjelly:380
+Dreamshell:381
+Toxic Kumori:382
+Butterfly Beetle:383
+Blossom Cricket:384
+Dosbiscus:385
+Armored Bream:386
+Springnight Carp:387
+Beast Gem:388
+Acute Fang:389
+Catalyst:3D8
+Net:3D9
+Gunpowder Lv2:3DA
+Gunpowder Lv3:3DB
+Steel Egg:3DC
+Silver Egg:3DD
+Golden Egg:3DE
+Commendation:3DF
+High Commendation:3E0
+Blazenut:3E1
+Flamenut:3E2
+Buddy Ticket:3F8
+Kamura Ticket:3F9
+Guild Ticket:3FA
+Defender Ticket 1:3FB
+Defender Ticket 2:3FC
+Defender Ticket 3:3FD
+Defender Ticket 4:3FE
+Defender Ticket 5:3FF
+Defender Ticket 6:400
+Defender Ticket 7:401
+King's Crest:403
+Rath Wingtalon+:404
+Basarios Tail:405
+Basarios Pleura:406
+Basarios Pleura+:407
+Jaggi Hide+:408
+Hard Armor Sphere:409
+Aquaglow Jewel:40B
+Bloodrun Jewel:40C
+Lagniapple:411
+Dung:412
+Dung Bomb:413
+Kulu Coin:415
+Barroth Coin:416
+Nargacuga Coin:418
+Barioth Coin:419
+Rajang Coin:41A
+Pinnacle Coin:41E
+Hunter King Coin:41F
+Ace Hunter Coin:420
+Great Wirebug:426
+Friend Voucher:42A
+Bhernastone:434
+Dundormarin:435
+Loc Lac Ore:436
+Val Haber Quartz:437
+Minegardenite:438
+Normal Ammo 2:01E
+Normal Ammo 3:01F
+Pierce Ammo 1:020
+Pierce Ammo 2:021
+Pierce Ammo 3:022
+Spread Ammo 1:023
+Spread Ammo 2:024
+Spread Ammo 3:025
+Shrapnel Ammo 1:08A
+Shrapnel Ammo 2:08B
+Shrapnel Ammo 3:08C
+Sticky Ammo 1:026
+Sticky Ammo 2:027
+Sticky Ammo 3:098
+Cluster Bomb 1:028
+Cluster Bomb 2:029
+Cluster Bomb 3:099
+Flaming Ammo:033
+Piercing Fire Ammo:09D
+Water Ammo:034
+Thunder Ammo:035
+Piercing Water Ammo:09E
+Piercing Ice Ammo:09F
+Piercing Thunder Ammo:0A0
+Dragon Ammo:0A1
+Freeze Ammo:036
+Piercing Dragon Ammo:0A2
+Slicing Ammo:037
+Wyvern Ammo:038
+Poison Ammo 1:02A
+Poison Ammo 2:02B
+Paralysis Ammo 1:02C
+Paralysis Ammo 2:02D
+Sleep Ammo 1:02E
+Sleep Ammo 2:02F
+Exhaust Ammo 1:030
+Exhaust Ammo 2:031
+Recover Ammo 1:032
+Recover Ammo 2:09A
+Demon Ammo:09B
+Armor Ammo:09C
+Tranq Ammo:039
+Power Coating:03A
+Poison Coating:03C
+Para Coating:03D
+Sleep Coating:03E
+Blast Coating:03F
+Exhaust Coating:041
