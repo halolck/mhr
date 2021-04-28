@@ -10,6 +10,7 @@ Weakness Exploit:8:2:A
 Latent Power:9:3:A
 Maximum Might:10:2:A
 Critical Element:11:2:A
+Master's Touch:12:2:S
 Fire Attack:13:3:B
 Water Attack:14:3:B
 Ice Attack:15:3:B
@@ -114,6 +115,7 @@ Weakness Exploit:8:2:A
 Latent Power:9:2:A
 Maximum Might:10:2:A
 Critical Element:11:2:A
+Master's Touch:12:1:S
 Fire Attack:13:2:B
 Water Attack:14:2:B
 Ice Attack:15:2:B
