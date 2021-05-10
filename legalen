@@ -102,6 +102,7 @@ Counterstrike:106:3:B
 Rapid Morph:107:3:B
 Hellfire Cloak:108:2:A
 [skill2]
+None:0:0:C
 Attack Boost:1:2:A
 Agitator:2:2:A
 Peak Performance:3:2:A
@@ -204,4 +205,4 @@ Wall Runner:105:3:C
 Counterstrike:106:2:B
 Rapid Morph:107:2:B
 Hellfire Cloak:108:2:A
-None:0:0:C
+
